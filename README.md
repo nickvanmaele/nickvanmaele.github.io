@@ -1,2 +1,2 @@
 # nickvanmaele.github.io
-Nick Van Maele default public repository
+Nick Van Maele default public GitHub repository
